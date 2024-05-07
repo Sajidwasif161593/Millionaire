@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Scroll View enables the elements to be rendered properly when screen is tilted into landscape orientation-->
+
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/black">
+
+<!-- Relative layout for Splash screen components -->
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".SplashActivity"
+    android:layout_gravity="center">
+
+<!--    Image which will be shown in the Splash screen-->
+
+    <ImageView
+        android:id="@+id/logo_id"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/logo" />
+
+</RelativeLayout>
+
+</ScrollView>
+
+<!--End of layout-->

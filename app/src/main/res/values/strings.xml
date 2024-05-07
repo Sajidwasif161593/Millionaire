@@ -1,0 +1,162 @@
+<resources>
+    <!--    General string values for App-->
+    <string name="app_name">Samiha\'s Who wants to be a Millionaire?</string>
+
+    <!--    Messages for game quiz-->
+    <string name="toast_correct">"CORRECT answer! You won $"</string>
+    <string name="toast_wrong">"WRONG answer. You lose the game!"</string>
+    <string name="won">CONGRATULATIONS You won : </string>
+    <string name="quit_text">Quit the game</string>
+    <string name="no_option_selected">"Please select one option!</string>
+
+    <!--    Messages for Winning-->
+    <string name="congrats">Congratulations !!!</string>
+
+    <!--    Messages for Losing-->
+    <string name="sorry">Sorry! You lost the game.</string>
+    <string name="try_again">TRY AGAIN</string>
+
+    <!--    Messages on the Home Activity-->
+    <string name="home_text">Strike it big with every correct answer and seize the thrilling chance to become a MILLIONAIRE! Each question is a step on your golden ladder to glory! 🌟✨ </string>
+    <string name="help_text">All correct answers could win you a MILLION dollars! You can quit the game only at Levels 5 and 10. Good luck!</string>
+
+    <!--    Questions, options and answers -->
+    <string name="question_1">What is the chemical symbol for gold?</string>
+    <string name="option_1_a">Ag</string>
+    <string name="option_1_b">Au</string>
+    <string name="option_1_c">Ga</string>
+    <string name="option_1_d">Ge</string>
+    <string name="answer_1">Au</string>
+
+    <string name="question_2">Which planet is known as the Red Planet?</string>
+    <string name="option_2_a">Mars</string>
+    <string name="option_2_b">Jupiter</string>
+    <string name="option_2_c">Saturn</string>
+    <string name="option_2_d">Venus</string>
+    <string name="answer_2">Mars</string>
+
+    <string name="question_3">What is the capital of Canada?</string>
+    <string name="option_3_a">Toronto</string>
+    <string name="option_3_b">Vancouver</string>
+    <string name="option_3_c">Ottawa</string>
+    <string name="option_3_d">Montreal</string>
+    <string name="answer_3">Ottawa</string>
+
+    <string name="question_4">Which of these birds has the biggest brain relative to its size?</string>
+    <string name="option_4_a">Ostrich</string>
+    <string name="option_4_b">Hummingbird</string>
+    <string name="option_4_c">Sparrow</string>
+    <string name="option_4_d">Eagle</string>
+    <string name="answer_4">Hummingbird</string>
+
+    <string name="question_5">What is the largest mammal in the world?</string>
+    <string name="option_5_a">African Elephant</string>
+    <string name="option_5_b">Blue Whale</string>
+    <string name="option_5_c">Giraffe</string>
+    <string name="option_5_d">White Rhino</string>
+    <string name="answer_5">Blue Whale</string>
+
+    <string name="question_6">In computer science, what does AI stand for?</string>
+    <string name="option_6_a">Artificial Insects</string>
+    <string name="option_6_b">Automated Instructions</string>
+    <string name="option_6_c">Artificial Intelligence</string>
+    <string name="option_6_d">Automatic Input</string>
+    <string name="answer_6">Artificial Intelligence</string>
+
+    <string name="question_7">Which of these lazy animals sleeps up to 22 hours a day?</string>
+    <string name="option_7_a">Koala</string>
+    <string name="option_7_b">Lion</string>
+    <string name="option_7_c">Copperhead</string>
+    <string name="option_7_d">Beagle</string>
+    <string name="answer_7">Koala</string>
+
+    <string name="question_8">What is the main ingredient in guacamole?</string>
+    <string name="option_8_a">Potato</string>
+    <string name="option_8_b">Avocado</string>
+    <string name="option_8_c">Tomato</string>
+    <string name="option_8_d">Chili</string>
+    <string name="answer_8">Avocado</string>
+
+    <string name="question_9">Which is the smallest country in the world?</string>
+    <string name="option_9_a">Monaco</string>
+    <string name="option_9_b">Maldives</string>
+    <string name="option_9_c">Vatican City</string>
+    <string name="option_9_d">San Marino</string>
+    <string name="answer_9">Vatican City</string>
+
+    <string name="question_10">What does HTTP stand for in a web address?</string>
+    <string name="option_10_a">Hypertext Transfer Product</string>
+    <string name="option_10_b">Hypertext Transmission Protocol</string>
+    <string name="option_10_c">Hypertext Transfer Protocol</string>
+    <string name="option_10_d">Hypertext Translation Path</string>
+    <string name="answer_10">Hypertext Transfer Protocol</string>
+
+    <string name="question_11">Which language is predominantly spoken in Brazil?</string>
+    <string name="option_11_a">Spanish</string>
+    <string name="option_11_b">French</string>
+    <string name="option_11_c">Portuguese</string>
+    <string name="option_11_d">English</string>
+    <string name="answer_11">Portuguese</string>
+
+    <string name="question_12">What is the longest river in the world?</string>
+    <string name="option_12_a">Nile River</string>
+    <string name="option_12_b">Amazon River</string>
+    <string name="option_12_c">Yangtze River</string>
+    <string name="option_12_d">Mississippi River</string>
+    <string name="answer_12">Amazon River</string>
+
+    <string name="question_13">What sort of flower is used to make saffron?</string>
+    <string name="option_13_a">Lotus</string>
+    <string name="option_13_b">Crocus</string>
+    <string name="option_13_c">Dandelion</string>
+    <string name="option_13_d">Jasmine</string>
+    <string name="answer_13">Crocus</string>
+
+    <string name="question_14">Which planet in our solar system is known for its rings?</string>
+    <string name="option_14_a">Jupiter</string>
+    <string name="option_14_b">Mars</string>
+    <string name="option_14_c">Saturn</string>
+    <string name="option_14_d">Neptune</string>
+    <string name="answer_14">Saturn</string>
+
+    <string name="question_15">What is the hardest natural substance on Earth?</string>
+    <string name="option_15_a">Gold</string>
+    <string name="option_15_b">Iron</string>
+    <string name="option_15_c">Diamond</string>
+    <string name="option_15_d">Quartz</string>
+    <string name="answer_15">Diamond</string>
+
+
+    <!-- String values for Rules Activity -->
+    <string name="amt15">$1,000,000</string>
+    <string name="amt14">$500,000</string>
+    <string name="amt13">$250,000</string>
+    <string name="amt12">$150,000</string>
+    <string name="amt11">$75,000</string>
+    <string name="amt10">$50,000</string>
+    <string name="amt9">$25,000</string>
+    <string name="amt8">$15,000</string>
+    <string name="amt7">$10,000</string>
+    <string name="amt6">$7,500</string>
+    <string name="amt5">$5,000</string>
+    <string name="amt4">$3,000</string>
+    <string name="amt3">$2,000</string>
+    <string name="amt2">$1,000</string>
+    <string name="amt1">$500</string>
+    <string name="no15">15</string>
+    <string name="no14">14</string>
+    <string name="no13">13</string>
+    <string name="no12">12</string>
+    <string name="no11">11</string>
+    <string name="no10">10</string>
+    <string name="no9">9</string>
+    <string name="no8">8</string>
+    <string name="no7">7</string>
+    <string name="no6">6</string>
+    <string name="no5">5</string>
+    <string name="no4">4</string>
+    <string name="no3">3</string>
+    <string name="no2">2</string>
+    <string name="no1">1</string>
+
+</resources>
